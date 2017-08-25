@@ -10,8 +10,7 @@ So i made this batch file with the intent to tell the program to start with cert
 	
 	I found the syntax on Microsoft's site itself and also where does VSC store the folders.
 	
-**Store this file in the folder itself**
-**To open VSC click on this file and not on the application**
+**Store this file in the folder itself, to open VSC click on this file and not on the application**
 
 Note: 
 In the file, the following code resides:
