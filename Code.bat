@@ -1,0 +1,1 @@
+start code --extensions-dir extensions --user-data-dir Code
