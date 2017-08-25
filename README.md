@@ -16,9 +16,9 @@ Note:
 In the file, the following code resides:
 >**start** code **--extensions-dir** extensions **--user-data-dir** Code
 
-**Bold:** Compulsary.
-code -> application name/exe file to open.
-extensions -> folder name for the extensions.
+**Bold:** Compulsary.  
+code -> application name/exe file to open.  
+extensions -> folder name for the extensions.   
 Code -> folder name for the cache/settings files.
 
 Now if you want to keep this file elsewhere, you **have** to put the address to that location. 
